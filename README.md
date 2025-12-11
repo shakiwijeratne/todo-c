@@ -1,4 +1,4 @@
-# ToDoListApp-C
+# todo-c
 To-Do List CLI Application - C Version
 
 This is a simple command-line To-Do List Application written in C, focusing on:  
